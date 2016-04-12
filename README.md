@@ -20,4 +20,11 @@ wp-content/plugins/hello.php
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
+
+# JetBrains / PhpStorm Project Files
+.idea/
+
+# Other Stuff here
+
+
 ```
